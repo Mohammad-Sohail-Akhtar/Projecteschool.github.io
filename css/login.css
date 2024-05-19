@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root
+{
+    --brand: #21B573;
+    --secondary: #413960;
+}
+
+body{
+   
+    background-color: #413960;
+}
+
+.container{
+    max-width: 1200px;
+    height: auto;
+    margin: 50px 170px;
+    
+}
+.login{
+    background: #f0fff0;
+    height: 550px;
+    font-family: "Poppins", sans-serif;
+    border-radius: 12px;
+}
+.login h1{
+   padding: 20px 50px;
+}
+.login h2 {
+    padding: 0 50px;
+    margin-top: -12px;
+}
+#a{
+    width: 270px;
+    height: 45px;
+    margin-left: 50px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+#b{
+    width: 270px;
+    height: 45px;
+    margin-left: 50px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+.icon1{
+    margin-top: -278px;
+    margin-left: 48px;
+}
+.icon2{
+    margin-top: 20px;
+    margin-left: 48px;
+}
+.circle{ 
+    margin-top: 10px;
+    margin-left: 48px;
+}
+.for {
+    margin-left: 206px;
+    margin-top: -20px;
+}
+.log{
+    border-radius: 10px;
+    width: 270px;
+    border: 1px solid black;
+    padding: 14px 100px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.login h3{
+    margin: 10px 97px;
+}
+.res{
+    border-radius: 10px;
+    width: 270px;
+    border: 1px solid black;
+    padding: 14px 100px;
+    margin-left: 50px;
+}
+.login img{
+    width: 500px;
+    height: 300px;
+    margin-left: 500px;
+}
